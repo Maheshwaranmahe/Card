@@ -8,6 +8,7 @@
     background-color: transparent;
     height: 250px;width: 250px;
     perspective: 1000px;
+    margin:30px auto;
 }
 .cardinner{
     position: relative;
